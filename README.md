@@ -2,4 +2,5 @@
 
 是个小白，请多多指教（
 
-[个人简介](https://coderbreakplus.github.io/website/introduction/introduction.html)
+[个人简介](https://coderbreakplus.github.io/website/introduction/)
+
