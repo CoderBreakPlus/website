@@ -5,7 +5,7 @@
 -------
 
 1. [个人简介](https://coderbreakplus.github.io/website/introduction/)
-2. [个人代码（共阅读、参考）](https://coderbreakplus.github.io/website/mycode/)
+2. [个人代码（for 阅读、参考）](https://coderbreakplus.github.io/website/mycode/)
 
 --------
 ## Change Destiny with faith.
