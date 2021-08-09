@@ -1,6 +1,6 @@
+## Introduction of BreakPlus
 
-
-## 各大平台账号/个人信息
+### 各大平台账号/个人信息
 
 1. Email: [breakplus@foxmail.com](mailto:breakplus@foxmail.com)
 1. 洛谷: [BreakPlus](/) and [BPqwq](/user/536471) 。
@@ -15,7 +15,7 @@
 
 7. 简书: [BreakPlus](https://www.jianshu.com/u/ad2d91ad7e86)
 
-## 链接备注
+### 链接备注
 
 1. [Fira Code 下载](https://www.fonts.net.cn/font-32128192175.html)
 2. [VS Code 下载](https://link.zhihu.com/?target=http%3A//vscode.cdn.azure.cn/stable/78a4c91400152c0f27ba4d363eb56d2835f9903a/VSCodeUserSetup-x64-1.43.0.exe)
@@ -26,7 +26,7 @@
 6. [暑假做题总结](https://www.luogu.com.cn/blog/BreakPlus/summervacation-ac)
 7. LaTeX 图片编辑：![](https://latex.codecogs.com/gif.latex?\texttt{LaTeX})
 8. [那 Lemon 的旋律伴着对 OI 的激情](https://www.bilibili.com/video/BV1m4411x7uj)
-## 个人名片
+### 个人名片
 
 ![](https://api.xecades.xyz/api?img=2&quote=Change+destiny+with+faith.&color=214%2C114%2C33%2C1&bg=23%2C26%2C217%2C0&luogu=BreakPlus&jianshu=BreakPlus&codeforces=BreakPlus&qq=1289494791&wechat=breakplus-501334&email=breakplus@foxmail.com)
 
