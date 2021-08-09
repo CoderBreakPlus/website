@@ -31,4 +31,4 @@ int main(){
 }
 ```
 
-#### [返回上一页](https://coderbreakplus.github.io/website/mycode/CodeForces/1154C)
+#### [返回上一页](https://coderbreakplus.github.io/website/mycode/CodeForces/)
