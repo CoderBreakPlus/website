@@ -9,5 +9,5 @@
 3. [个人代表作（在 Luogu 等平台发布过）](https://coderbreakplus.github.io/website/blogs/)
 
 --------
-## Change Destiny with faith.
+## Change destiny with faith.
 相信自己，可以的！！
