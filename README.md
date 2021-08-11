@@ -11,3 +11,7 @@
 --------
 ## Change destiny with faith.
 相信自己，可以的！！
+
+-------
+
+访问次数：![](http://www.hit-counts.com/counter.php?t=MTQ1OTAxNA==)
